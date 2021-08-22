@@ -1,5 +1,6 @@
 <?php
 
+
 /*
 Plugin Name: LeetSubdomain
 Plugin URI: https://gyanlog.in
